@@ -1,17 +1,125 @@
-## Hi there 👋
+# Hi there 👋, I'm Sapna Singh
 
-# 💫 About Me:
-👋 Hi, I'm Sapna Singh!<br>📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI<br><br>I'm a data enthusiast passionate about uncovering insights through data analysis and visualization. Currently preparing for a Data Analyst Internship, I am eager to apply my skills in real-world projects and contribute to data-driven decision-making.<br><br>🔹 Skills & Tools:<br>Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)<br><br>Databases: SQL (MySQL, PostgreSQL)<br><br>Data Visualization: Power BI, Tableau, Excel<br><br>Other: Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Creation<br><br>📂 What You'll Find Here:<br>Hands-on data analysis projects<br><br>SQL queries for data extraction & manipulation<br><br>Visualizations & dashboards showcasing business insights<br><br>🚀 Let's Connect!<br>I'm always open to collaboration and learning opportunities. Feel free to check out my projects and connect with me on LinkedIn or via email at sapnasingh101045@gmail.com.
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sapna-Singh10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sapna-Singh10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapna-Singh10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 **B.Tech in Computer Science & Information Technology**
+📊 **Data Analyst | Aspiring Software & Web Developer**
+📍 Bareilly, Uttar Pradesh, India
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sapna-Singh10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+I am a passionate **Computer Science undergraduate (2021–2025)** with strong interests in **Data Analysis, Web Development, and Problem Solving**. I enjoy transforming raw data into meaningful insights and building practical, user-focused applications. I am continuously learning and improving my skills through hands-on projects, internships, and competitive coding.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Web Development
+
+* HTML, CSS, JavaScript
+* React.js, Express.js
+* Responsive Web Design
+
+### 📈 Data Analysis & Visualization
+
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* SQL
+* Excel, Google Sheets
+* Power BI, Tableau
+* Jupyter Notebooks
+
+### ⚙️ Tools & Platforms
+
+* Git & GitHub
+* VS Code, JupyterLab
+* Google Analytics
+* APIs
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Stress Prediction
+
+**Tech Stack:** Python, Pandas, Power BI, Google Sheets
+
+* Collected and analyzed data from **255 participants** with a **95% response rate**.
+* Improved stress prediction accuracy by **20%** using optimized Python models.
+* Built an interactive **Power BI dashboard** for trend analysis and insights.
+* Automated preprocessing workflows, reducing analysis time by **30%**.
+
+🔗 [View Project](https://github.com/Sapna-Singh10/Stress-Prediction)
+
+---
+
+### 🔹 YouTube Long Videos vs Shorts Analysis
+
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+
+* Analyzed **6,465+ data points** comparing engagement metrics.
+* Studied views, likes, and comments to derive actionable insights.
+* Insights could potentially improve viewer engagement by **75%**.
+
+🔗 [View Project](https://github.com/Sapna-Singh10/Youtubeanalysis)
+
+---
+
+### 🔹 Ola Booking Analysis & Visualization
+
+**Tech Stack:** Power BI, Excel, SQL, Jupyter Notebook
+
+* Analyzed ride bookings, cancellations, and driver performance.
+* Reduced analysis time by **25%** using SQL and Python.
+* Identified key cancellation drivers to improve customer satisfaction.
+
+🔗 [View Project](https://github.com/Sapna-Singh10/Ola-Analysis)
+
+---
+
+### 🔹 File Sharing Application
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Multer
+
+* Built a secure full-stack file-sharing web application.
+* Implemented file upload and storage using **Multer**.
+* Followed best practices with modular folder structure.
+
+---
+
+## 📘 Relevant Coursework
+
+* Data Structures & Algorithms
+* Database Management Systems
+* Operating Systems
+* Software Engineering
+* Machine Learning
+* Cyber Security & Cryptography
+
+---
+
+## 🏆 Certifications
+
+* ⭐ **C++ Problem Solving** – HackerRank (March 2025)
+* 📊 **Data Analysis with Python** – freeCodeCamp (December 2024)
+* ☁️ **Google Cloud Computing Foundation** – NPTEL (IIT Kharagpur)
+* 🗄️ **SQL Certification** – HackerRank (July 2024)
+
+---
+
+## 🏅 Achievements
+
+* 🥇 **Gold Badge (5⭐) in C++** on HackerRank
+* 💎 **Diamond Badge on CodeChef** for a 100-day coding streak
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 Email: **[sapnasingh101045@gmail.com](mailto:sapnasingh101045@gmail.com)**
+* 💼 LinkedIn: [Sapna Singh](https://www.linkedin.com/in/sapna-singh-3933b9228/)
+* 💻 GitHub: [Sapna-Singh10](https://github.com/Sapna-Singh10)
+* 🧠 CodeChef: [sapna1009](https://www.codechef.com/users/sapna1009)
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me. I’m always open to learning, collaboration, and new opportunities!*
